@@ -1,2 +1,6 @@
 # Intervention-Conditioned-Digital-Twin-for-Active-Diagnosis-of-Transceiver-Drift
 An intervention-conditioned digital twin combines active probing and conformal prediction for optical-link fault diagnosis. The one-probe method achieves 94.15% accuracy and 91.85% coverage, but shows no accuracy gain over the best fixed probe. Results identify informative interventions, model-shift risks, and nonidentifiable faults.
+
+On 2000 complete nominal test episodes, forced diagnostic accuracy is 91.05% for passive Extra Trees, 94.20% for the best fixed probe, 94.15% for learned active selection, and 95.70% using all six additional probes. Active minus fixed accuracy is −0.05 percentage points, paired bootstrap 95% interval [−0.55, 0.50]. The active policy has **no demonstrated advantage over the strongest fixed probe**.
+
+Active conformal set coverage is 91.85% at the 90% target. Its 1919 singleton outputs include 82 errors; 81 sets are empty. Marginal set coverage is distinct from accuracy among accepted diagnoses. Under the specified uncalibrated shift, active accuracy is 77.30% and set coverage is 72.50%. An exact gain-only negative control shows mechanisms that remain observationally equivalent under all allowed controls. No universal causal-identification or distribution-shift guarantee is made.
