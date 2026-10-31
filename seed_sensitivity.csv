@@ -1,0 +1,10 @@
+seed,policy,accuracy
+261029,Passive ML,0.9105
+261029,Fixed probe,0.942
+261029,Active ML,0.9415
+261030,Passive ML,0.9115
+261030,Fixed probe,0.9445
+261030,Active ML,0.9425
+261031,Passive ML,0.907
+261031,Fixed probe,0.944
+261031,Active ML,0.941

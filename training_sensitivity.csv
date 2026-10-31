@@ -1,0 +1,17 @@
+n_training,policy,accuracy
+500,Passive ML,0.9065
+500,Fixed probe,0.9305
+500,Active ML,0.928
+500,All probes,0.9375
+1000,Passive ML,0.91
+1000,Fixed probe,0.9365
+1000,Active ML,0.935
+1000,All probes,0.948
+2000,Passive ML,0.91
+2000,Fixed probe,0.942
+2000,Active ML,0.9405
+2000,All probes,0.957
+4000,Passive ML,0.9105
+4000,Fixed probe,0.942
+4000,Active ML,0.9415
+4000,All probes,0.957
