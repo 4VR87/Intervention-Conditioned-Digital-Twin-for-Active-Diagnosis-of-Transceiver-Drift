@@ -1,0 +1,2 @@
+# Intervention-Conditioned-Digital-Twin-for-Active-Diagnosis-of-Transceiver-Drift
+An intervention-conditioned digital twin combines active probing and conformal prediction for optical-link fault diagnosis. The one-probe method achieves 94.15% accuracy and 91.85% coverage, but shows no accuracy gain over the best fixed probe. Results identify informative interventions, model-shift risks, and nonidentifiable faults.
